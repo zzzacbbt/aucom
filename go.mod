@@ -1,3 +1,3 @@
-module github.com/zssacbbt/aucom
+module github.com/zzzacbbt/aucom
 
 go 1.13
